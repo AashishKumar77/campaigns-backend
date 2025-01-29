@@ -1,5 +1,5 @@
 # campaigns-backend
-1. git clone https://github.com/AashishKumar77/campaigns-backend
+1. git clone https://github.com/AashishKumar77/campaigns-backend.git
 2. cd backend 
 3. checkout to master branch
 4. npm install 
