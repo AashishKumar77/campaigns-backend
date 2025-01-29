@@ -1,6 +1,7 @@
 # campaigns-backend
 git clone https://github.com/AashishKumar77/campaigns-backend
 cd backend 
+checkout to master branch
 npm install 
 node app.js - (It will connect the db automatically which is using online cluster)
 
